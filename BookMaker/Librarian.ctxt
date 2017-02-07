@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=book
+comment0.target=void\ printBookInformation(Book)
+comment1.params=book
+comment1.target=void\ printBookTitle(Book)
+comment2.params=book
+comment2.target=void\ printBookAuthorLastName(Book)
+comment3.params=book
+comment3.target=void\ printBookAuthorFirstName(Book)
+comment4.params=book
+comment4.target=void\ printBookPublicationDate(Book)
+comment5.params=book
+comment5.target=void\ printBookISBNNumber(Book)
+comment6.params=book
+comment6.target=void\ printBookNumPages(Book)
+numComments=7
