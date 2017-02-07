@@ -1,5 +1,5 @@
 #BlueJ class context
-comment0.params=title\ authorLastName\ authorFirstName\ publicationDate\ isbnNumber\ numpages
+comment0.params=title\ authorLastName\ authorFirstName\ publicationDate\ isbnNumber\ numPages
 comment0.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int)
 comment1.params=
 comment1.target=java.lang.String\ getTitle()

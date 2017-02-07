@@ -10,7 +10,7 @@ public class Book
     private int numPages;
     private double isbnNumber;
     
-    public Book(String title, String authorLastName, String authorFirstName, String publicationDate, double isbnNumber, int numpages)
+    public Book(String title, String authorLastName, String authorFirstName, String publicationDate, double isbnNumber, int numPages)
     {
         this.title = title;
         this.authorLastName = authorLastName;
